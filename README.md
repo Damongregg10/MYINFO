@@ -38,6 +38,21 @@ Welcome to my GitHub Profile! I am a confident and articulate communicator with 
 
 ---
 
+## **Skills in Progress**
+- Python: Learning object-oriented programming (OOP).  
+- Cybersecurity: Exploring basic penetration testing techniques.  
+- Docker: Understanding containerization for application deployment.  
+
+---
+
+## **Learning Roadmap**
+- **Short-Term Goals**:  
+  - Complete CompTIA Network+ certification.
+  - Complete CompTIA Security+ certification.
+  - Complete Google Cybers Security certification.
+  - Build an ecryption program using Python.
+---
+
 # My Coding Projects  
 
 Here are some of the projects I have worked on, they are very simple but work in progress:
@@ -56,4 +71,9 @@ Here are some of the projects I have worked on, they are very simple but work in
 
 
 ---
+
+## **Contact Me**
+- [LinkedIn](https://www.linkedin.com/in/damon-gregg-2354512a0/)  
+- [Email](damonjgregg@protonmail.com)
+
 
