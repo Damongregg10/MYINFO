@@ -9,7 +9,7 @@ Welcome to my GitHub Profile! I am a confident and articulate communicator with 
 - Learning and growing my skills and expertise in IT.  
 
 ### **Education**  
-- **BSc(hons) in Intelligence & Cyber Security (Completion: 2026)  
+- BSc(hons) in Intelligence & Cyber Security (Completion: 2026)  
 - Apprenticeship in IT Software & Telecoms Professional  
 - Diploma in Information Technology  
 
