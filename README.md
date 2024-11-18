@@ -3,7 +3,7 @@
 
 ---
 
-Welcome to my GitHub Profile! 
+Welcome to my GitHub Profile! I am a confident and articulate communicator with a genuine passion for customer service.
 
 ***
 
