@@ -9,7 +9,7 @@ Welcome to my GitHub Profile! I am a confident and articulate communicator with 
 - Learning and growing my skills and expertise in IT.  
 
 ### **Education**  
-- **Bachelor’s Degree** in Intelligence & Cyber Security (Completion: 2026)  
+- **BSc(hons) in Intelligence & Cyber Security (Completion: 2026)  
 - Apprenticeship in IT Software & Telecoms Professional  
 - Diploma in Information Technology  
 
@@ -33,7 +33,7 @@ Welcome to my GitHub Profile! I am a confident and articulate communicator with 
 
 ### **IT Tools**  
 - Wireshark, VMware, VirtualBox, Docker  
-- Nmap, PuTTY, Cisco Packet Tracer  
-- Microsoft Office (Word, Excel), TeamViewer, Obsidian, Tableau  
+- Nmap, PuTTY, TeamViewer
+- Microsoft Office (Word, Excel), Obsidian, Tableau  
 
 ---
