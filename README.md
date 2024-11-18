@@ -44,30 +44,16 @@ Here are some of the projects I have worked on, they are very simple but work in
 
 ---
 
-## **Featured Projects**
+### [FizzBuzz](https://github.com/Damongregg10/Python_Repo/blob/main/fizz_buzz.py)
+- **Description:** My implementation of the classic FizzBuzz problem. It took some time to get right, but mastering it was essential as it demonstrates a foundational programming concept: how code executes sequentially from top to bottom.
 
-### [Project Name 1](https://github.com/Damongregg10/Python_Repo/blob/main/calculator.py)
-- **Description:** A brief explanation of what the project does or its purpose.
-- **Technologies Used:** Python, Flask, HTML, CSS
-- **Highlights:**
-  - Feature 1
-  - Feature 2
-- **Link:** [View Project](https://github.com/username/project1)
+### [Calculator](https://github.com/Damongregg10/Python_Repo/blob/main/calculator.py)
+- **Description:** A collection of basic calculator programs I made while learning to code. These include adding numbers, rounding results, and even squaring a number using a simple function. Each version helped me understand how to work with inputs, different number types, and formatting outputs.
 
----
 
-### [Project Name 2](https://github.com/username/project2)
-- **Description:** A brief explanation of what the project does or its purpose.
-- **Technologies Used:** React, Node.js, Express
-- **Highlights:**
-  - Feature 1
-  - Feature 2
-- **Link:** [View Project](https://github.com/username/project2)
+### [Cat Image Generator](https://github.com/Damongregg10/Python_Repo/blob/main/Cat%20_Image_Generator.py)
+- **Description:** Who doesn't love cats? This project randomly selects and displays one of three funny cat images. Using some basic Python magic (and a little help from ChatGPT), it combines randomness and the Python Image Library (Pillow).
+
 
 ---
 
-## **Other Projects**
-
-- [Project Name 3](https://github.com/username/project3): A one-line description of this project.
-- [Project Name 4](https://github.com/username/project4): A one-line description of this project.
-- [Project Name 5](https://github.com/username/project5): A one-line description of this project.
