@@ -1,6 +1,6 @@
-# Hi, I'm Damon Gregg  
+# Hi, I'm Damon
 
-Welcome to my GitHub Profile! I am a confident and articulate communicator with a genuine passion for customer service.  
+Welcome to my GitHub Profile!
 
 ---
 
